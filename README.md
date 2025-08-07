@@ -4,7 +4,7 @@ Rock-Paper-Scissor game
 ## Used libraries
 You can install these libraries by typing on your terminal in Python (Python shell)  
 
-<code>
+<code>bash
 pip install termcolor
 </code>       
        
